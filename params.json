@@ -1,0 +1,6 @@
+{
+  "name": "Mapjam",
+  "tagline": "MapJam Project ",
+  "body": "This project is intended to automate the process of information aggregation for sharing services in the Tampa Bay, FL area. This is part of the larger #MapJam Civic Coding effort.\r\n\r\nWe are currently developing these key functional components:\r\n\r\nData collection for sharing services within geofence for Tampa Bay\r\nTemplate for data based on localwiki.org page format \r\nPopulating template, duplicate check, data verification and automated updates\r\n\r\nUpdates are coming soon!",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
